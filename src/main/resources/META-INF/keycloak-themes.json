@@ -1,0 +1,6 @@
+{
+    "themes": [{
+        "name" : "keycloak-example",
+        "types": [ "login" ]
+    }]
+}
